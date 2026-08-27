@@ -1,0 +1,12 @@
+{
+  "name": "cicd-demo-project",
+  "version": "1.0.0",
+  "description": "Demo project showcasing a CI/CD pipeline with GitHub Actions and Docker deployment",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "node src/app.test.js"
+  },
+  "author": "Linda P",
+  "license": "MIT"
+}
